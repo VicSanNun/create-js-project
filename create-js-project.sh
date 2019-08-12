@@ -18,7 +18,7 @@ mkdir $TESTS && mkdir $SRC
 
 touch $TESTS/$INDEX_TEST_FILE && touch $SRC/$INDEX_FILE
 
-touch $SRC/.gitignore
+touch $FOLDERNAME/.gitignore
 
 touch $FOLDERNAME/README.md
 
